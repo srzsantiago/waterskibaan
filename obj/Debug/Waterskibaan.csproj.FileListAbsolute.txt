@@ -1,0 +1,7 @@
+C:\xampp\htdocs\Waterskibaan\Waterskibaan\Waterskibaan\bin\Debug\Waterskibaan.exe.config
+C:\xampp\htdocs\Waterskibaan\Waterskibaan\Waterskibaan\bin\Debug\Waterskibaan.exe
+C:\xampp\htdocs\Waterskibaan\Waterskibaan\Waterskibaan\bin\Debug\Waterskibaan.pdb
+C:\xampp\htdocs\Waterskibaan\Waterskibaan\Waterskibaan\obj\Debug\Waterskibaan.csprojAssemblyReference.cache
+C:\xampp\htdocs\Waterskibaan\Waterskibaan\Waterskibaan\obj\Debug\Waterskibaan.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Waterskibaan\Waterskibaan\Waterskibaan\obj\Debug\Waterskibaan.exe
+C:\xampp\htdocs\Waterskibaan\Waterskibaan\Waterskibaan\obj\Debug\Waterskibaan.pdb
